@@ -5,6 +5,5 @@ public class Day812 {
 
         System.out.println("adadada");
         System.out.println("adadada");
-        System.out.println("adadada");
     }
 }
