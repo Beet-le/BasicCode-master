@@ -5,5 +5,6 @@ public class A {
         System.out.println("完了一天");
         int a=10;
         a=20;
+        System.out.println("aaa");
     }
 }
