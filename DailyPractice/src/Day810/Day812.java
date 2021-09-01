@@ -4,6 +4,9 @@ public class Day812 {
     public static void main(String[] args) {
 
         System.out.println("adadada");
-        System.out.println("bbbbbbbbbb");
+        System.out.println("adadada");
+        System.out.println("adadada");
+        System.out.println("adadada");
+        System.out.println("adadada");
     }
 }
